@@ -2,14 +2,11 @@ body,
 html {
   margin: 0;
   padding: 0;
-  /* font-family: 'Caveat', cursive;
-  font-family: 'Kay Pho Du', serif;
-  font-family: 'Roboto', sans-serif; */
 }
 
 .container {
   background-color: #2b3035;
-  height: 100vh;
+  height: 100%;
   width: 100vw;
   display: flex;
   justify-content: center;
